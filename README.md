@@ -26,3 +26,5 @@ Normalization and scoring were applied using Min-Max scaling and similarity scor
 
 > ⚠️ *Note: No internal data or analytics were provided by the company. All insights were generated through external research and independent modeling.*
 
+## 🔗 View the Full Excel Project  
+👉 [Open the Project on Google Sheets](https://docs.google.com/spreadsheets/d/1jmYlFu2I8AGp3z4URcC2Kr7zvM2a-dHL/edit?gid=360797149#gid=360797149)
